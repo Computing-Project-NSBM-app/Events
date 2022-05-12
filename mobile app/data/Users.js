@@ -1,0 +1,30 @@
+export const Users=[
+    {
+    id:1,
+    user:'BreakingBad',
+    image:'https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&w=1000&q=80',
+    email:'Nipunaghna@gmail.com',
+    contactNo:'+94772875322'
+},
+{
+    id:2,
+    user:'Broksi',
+    image:'https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&w=1000&q=80',
+    email:'Nipunaghna@gmail.com',
+    contactNo:'+94772875322'
+},
+{
+    id:3,
+    user:'OGGy',
+    image:'https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&w=1000&q=80',
+    email:'Nipunaghna@gmail.com',
+    contactNo:'+94772875322'
+},
+{
+    id:4,
+    user:'AOT',
+    image:'https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&w=1000&q=80',
+    email:'Nipunaghna@gmail.com',
+    contactNo:'+94772875322'
+},
+]
